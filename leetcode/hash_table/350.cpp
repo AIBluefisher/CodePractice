@@ -20,11 +20,11 @@ public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
         unordered_map<int, int> nums_map;
         for(auto num : nums1) {
-            if(nums_map.find(num) == nums_map.end())  
+            if(nums_map.find(num) == nums_map.end())
                 nums_map.insert(make_pair(num, 1));
             else nums_map[num]++;
         }
-        
+
         vector<int> results;
         for(auto num : nums2) {
             if(nums_map.find(num) != nums_map.end()) {
@@ -37,6 +37,3 @@ public:
         return results;
     }
 };
-
-python /home/chenyu/projects/i23dSFM-1/build/software/SfM/SfM_SequentialPipeline.py /xdata/dataset/tanks_temples/image_sets/advanced/Barn /xdata/dataset/tanks_temples/image_sets/advanced/Barn/recon 0
-python /xdata/application/i23dMVS/script/run_i23d.py /xdata/dataset/tanks_temples/image_sets/advanced/Barn/recon/reconstruction_sequential /xdata/dataset/tanks_temples/image_sets/advanced/Barn/recon/mvs
