@@ -9,9 +9,8 @@ struct TreeNode {
 TreeNode* insert(TreeNode* p, int x)
 {
   if(!p) {
-    TreeNode* q = new TreeNode();
-    q->val = x;
-    q->left = q->right = nullptr;
+    TreeNode* q = new TreeNode(x);
+    return q;
   }
 
   else {
