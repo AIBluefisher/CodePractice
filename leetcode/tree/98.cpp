@@ -36,6 +36,7 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+// 1.
 class Solution {
 public:
     bool isValidBST(TreeNode* root) {
@@ -54,4 +55,20 @@ public:
         list.push_back(root->val);
         dfs(root->right, list);
     }
+};
+
+// 2.
+class Solution {
+public:
+    bool isValidBST(TreeNode* root) {
+        return isValidBST(root, -2147483649, 2147483648);
+    }
+    
+    bool isValidBST(TreeNode* root, long long lower, long long upper) {
+        if(!root) return true;
+        return root->val > lower && root->val < upper &&
+               isValidBST(root->left, lower, root->val) &&
+               isValidBST(root->right, root->val, upper);
+    }
+
 };
