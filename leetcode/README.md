@@ -8,7 +8,9 @@ solutions for leetcode
 
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-~~[48. Rotate Image](https://leetcode.com/problems/rotate-image/)~~ ```linklist```
+~~[21. Merge Two Sorted Lists]()~~ ```linklist```
+
+~~[48. Rotate Image](https://leetcode.com/problems/rotate-image/)~~ ```array```
 
 [53. Maximum Subarray]() **TODO**
 
