@@ -8,7 +8,7 @@ solutions for leetcode
 
 - [ ] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-- [x][9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [x] [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 - [x] [21. Merge Two Sorted Lists]() ```linklist```
 
