@@ -4,7 +4,7 @@ solutions for leetcode
 
 - [ ] [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
-- [x] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)~~ ```LinkList ```
+- [x] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ```LinkList ```
 
 - [ ] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
@@ -12,11 +12,21 @@ solutions for leetcode
 
 - [x] [21. Merge Two Sorted Lists]() ```linklist```
 
+- [x] [27. Remove Element](https://leetcode.com/problems/remove-element/) ```array```
+
 - [x] [38. Count and Say](https://leetcode.com/problems/count-and-say/)
 
 - [x] [48. Rotate Image](https://leetcode.com/problems/rotate-image/)```array```
 
 - [ ] [53. Maximum Subarray]()
+
+- [ ] [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) ```array```
+
+- [x] [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) ```LinkList``` **More Practice**
+
+- [x] [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) ```LinkList```
+
+- [ ] [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) ```dynamic programming```
 
 - [ ] [86. Partition List](https://leetcode.com/problems/partition-list/)
 
@@ -24,7 +34,7 @@ solutions for leetcode
 
 - [ ] [94. Binary Tree Inorder Traversal]()
 
-- [x] [102. Binary Tree Level Order Traversal]()~~ ```Tree```
+- [x] [102. Binary Tree Level Order Traversal]() ```Tree```
 
 - [x] [100. Same Tree](https://leetcode.com/problems/same-tree/) ```Tree```
 
@@ -62,4 +72,9 @@ solutions for leetcode
 
 - [x] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
+<<<<<<< HEAD
+- [ ] [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) ```array```
+
+- [x] [590. N-ary Tree Postorder Traversal]() ```Tree```
+=======
 - [x] [590. N-ary Tree Postorder Traversal] ```Tree```
