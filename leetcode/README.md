@@ -72,9 +72,6 @@ solutions for leetcode
 
 - [x] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
-<<<<<<< HEAD
 - [ ] [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) ```array```
 
 - [x] [590. N-ary Tree Postorder Traversal]() ```Tree```
-=======
-- [x] [590. N-ary Tree Postorder Traversal] ```Tree```
