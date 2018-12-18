@@ -16,6 +16,8 @@ solutions for leetcode
 
 - [x] [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) ```linklist``` **More practice**
 
+- [ ] [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
 - [x] [27. Remove Element](https://leetcode.com/problems/remove-element/) ```array```
 
 - [x] [38. Count and Say](https://leetcode.com/problems/count-and-say/)
@@ -28,6 +30,8 @@ solutions for leetcode
 
 - [x] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) ```dynamic programming```
 
+- [ ] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ```dynamic programming```
+
 - [ ] [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) ```array```
 
 - [x] [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) ```LinkList``` **More Practice**
@@ -38,9 +42,17 @@ solutions for leetcode
 
 - [ ] [86. Partition List](https://leetcode.com/problems/partition-list/)
 
+- [ ] [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+
 - [x] [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) ```LinkList``` **Need more practice**
 
 - [ ] [94. Binary Tree Inorder Traversal]() ```Tree```
+
+- [ ] [95. Unique Binary Search Trees II] (https://leetcode.com/problems/unique-binary-search-trees-ii/) ```Tree```
+
+- [ ] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) ```Tree``` ```dynamic programming```
+
+- [ ] [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) ```dynamic programming```
 
 - [ ] [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) ```Tree```
 
@@ -64,6 +76,8 @@ solutions for leetcode
 
 - [x] [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 
+- [ ] [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+
 - [ ] [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
 - [x] [120. Triangle]() ```dynamic programming```
@@ -79,6 +93,8 @@ solutions for leetcode
 - [x] [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 
 - [ ] [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
+
+- [ ] [139. Word Break](https://leetcode.com/problems/word-break/) ```dynamic programming```
 
 - [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
