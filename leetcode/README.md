@@ -48,7 +48,7 @@ solutions for leetcode
 
 - [ ] [94. Binary Tree Inorder Traversal]() ```Tree```
 
-- [ ] [95. Unique Binary Search Trees II] (https://leetcode.com/problems/unique-binary-search-trees-ii/) ```Tree```
+- [ ] [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) ```Tree```
 
 - [ ] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) ```Tree``` ```dynamic programming```
 
