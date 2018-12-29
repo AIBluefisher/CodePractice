@@ -8,9 +8,17 @@ solutions for leetcode
 
 - [ ] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
+- [x] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) ```dynamic programming``` ```string``` **More Practice**
+
+- [x] [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) ```string```
+
 - [x] [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
+- [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ```stack```
+
 - [x] [21. Merge Two Sorted Lists]() ```linklist```
+
+- [x] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) ```permutation```
 
 - [ ] [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) ```linklist```
 
@@ -20,11 +28,23 @@ solutions for leetcode
 
 - [x] [27. Remove Element](https://leetcode.com/problems/remove-element/) ```array```
 
+- [ ] [31. Next Permutation](https://leetcode.com/problems/next-permutation/) ```permutation```
+
+- [ ] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)   ```binary search```
+
+- [x] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) ```array```
+
 - [x] [38. Count and Say](https://leetcode.com/problems/count-and-say/)
+
+- [x] [46. Permutations](https://leetcode.com/problems/permutations/submissions/)   ```permutation```
+
+- [x] [47. Permutations II](https://leetcode.com/problems/permutations-ii/) ```permutation``` **More practice**
 
 - [x] [48. Rotate Image](https://leetcode.com/problems/rotate-image/)```array```
 
-- [ ] [53. Maximum Subarray]()
+- [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)   ```dynamic programming```
+
+- [ ] [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) ```string```
 
 - [x] [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) ```dynamic programming```
 
@@ -32,7 +52,11 @@ solutions for leetcode
 
 - [ ] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ```dynamic programming```
 
+- [ ] [72. Edit Distance](https://leetcode.com/problems/edit-distance/) ```dynamic programming```
+
 - [ ] [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) ```array```
+
+- [ ] [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) ```binary search```
 
 - [x] [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) ```LinkList``` **More Practice**
 
@@ -103,6 +127,8 @@ solutions for leetcode
 - [ ] [144. Binary Tree Preorder Traversal]()
 
 - [ ] [145. Binary Tree Postorder Traversal]()
+
+- [ ] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
 - [ ] [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ```linklist```
 
