@@ -14,6 +14,10 @@ solutions for leetcode
 
 - [x] [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
+- [ ] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) ```array```
+
+- [x] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) ```string```
+
 - [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ```stack```
 
 - [x] [21. Merge Two Sorted Lists]() ```linklist```
@@ -32,9 +36,13 @@ solutions for leetcode
 
 - [ ] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)   ```binary search```
 
+- [x] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)   ```binary search```
+
 - [x] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) ```array```
 
 - [x] [38. Count and Say](https://leetcode.com/problems/count-and-say/)
+
+- [ ] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
 - [x] [46. Permutations](https://leetcode.com/problems/permutations/submissions/)   ```permutation```
 
@@ -50,9 +58,15 @@ solutions for leetcode
 
 - [x] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) ```dynamic programming```
 
+- [x] [66. Plus One](https://leetcode.com/problems/plus-one/)   ```array```
+
 - [ ] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ```dynamic programming```
 
 - [ ] [72. Edit Distance](https://leetcode.com/problems/edit-distance/) ```dynamic programming```
+
+- [x] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) ```array```
+
+- [x] [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)   ```binary search```
 
 - [ ] [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) ```array```
 
@@ -65,6 +79,8 @@ solutions for leetcode
 - [ ] [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) ```dynamic programming```
 
 - [ ] [86. Partition List](https://leetcode.com/problems/partition-list/)
+
+- [ ] [89. Gray Code](https://leetcode.com/problems/gray-code/)
 
 - [ ] [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
 
@@ -117,6 +133,10 @@ solutions for leetcode
 - [x] [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 
 - [ ] [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
+
+- [ ] [133. Clone Graph](https://leetcode.com/problems/clone-graph/)    ```graph```
+
+- [x] [136. Single Number](https://leetcode.com/problems/single-number/)    ```bit manipulation```
 
 - [ ] [139. Word Break](https://leetcode.com/problems/word-break/) ```dynamic programming```
 
