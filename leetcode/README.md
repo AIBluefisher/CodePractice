@@ -2,7 +2,7 @@
 solutions for leetcode
 
 | Problem | Solution | Difficulty | Tag | Others |
-| :--------: | :-----: |     :----:     |      :----:     |        :----       |
+| :-------- | :-----: |     :----:     |      :----:     |        :----       |
 | - [ ] [1. Two Sum](https://leetcode.com/problems/two-sum/) | - | - | - | - |
 | - [x] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | - | - | ```LinkList ``` | - |
 |- [ ] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | - | - | - | - |
@@ -19,7 +19,7 @@ solutions for leetcode
 |- [ ] [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  | - | - | ```linklist``` | - |
 |- [x] [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)   | - | - | ```linklist``` | **More practice** |
 |- [ ] [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | - | - | - | - |
-|- [x] [27. Remove Element](https://leetcode.com/problems/remove-element/) ` | - | - | ``array``` | - |
+|- [x] [27. Remove Element](https://leetcode.com/problems/remove-element/)  | - | - | ```array``` | - |
 |- [x] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)  | - | - | ```string``` | - |
 |- [ ] [31. Next Permutation](https://leetcode.com/problems/next-permutation/)  | - | - | ```permutation``` | - |
 |- [ ] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)    | - | - | ```binary search``` | - |
@@ -27,7 +27,7 @@ solutions for leetcode
 |- [x] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  | - | - | ```array``` | - |
 |- [x] [38. Count and Say](https://leetcode.com/problems/count-and-say/) | - | - | - | - |
 |- [ ] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | - | - | - | - |
-|- [x] [46. Permutations](https://leetcode.com/problems/permutations/submissions/)   ` | - | - | ```permutation`` | - |
+|- [x] [46. Permutations](https://leetcode.com/problems/permutations/submissions/)    | - | - | ```permutation``` | - |
 |- [x] [47. Permutations II](https://leetcode.com/problems/permutations-ii/)   | - | - | ```permutation``` | **More practice** |
 |- [x] [48. Rotate Image](https://leetcode.com/problems/rotate-image/)  | - | - | ```array``` | - |
 |- [x] [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)    | - | - | ```string, hash_table``` | - |
