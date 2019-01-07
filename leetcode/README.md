@@ -3,7 +3,7 @@ solutions for leetcode
 
 | Problem | Solution | Difficulty | Tag | Others |
 | :-------- | :----- |     :----:     |      :----:     |        :----       |
-| - [ ] [1. Two Sum](https://leetcode.com/problems/two-sum/) | - | - | - | - |
+ - [ ] [1. Two Sum](https://leetcode.com/problems/two-sum/) | - | - | - | - |
 | - [x] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | - | - | ```LinkList ``` | - |
 |- [ ] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | - | - | - | - |
 |- [x] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) ```dynamic programming```   | - | - | ```string``` | **More Practice**  |
