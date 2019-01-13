@@ -28,6 +28,8 @@ solutions for leetcode
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)    | - | - | ```binary search``` | - | - [ ] |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)    | - | - | ```binary search``` | - | - [x] |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  | - | - | ```array``` | - | - [x] |
+| [39. Combination Sum](https://leetcode.com/problems/combination-sum/)  | - | - | ```backtrack, dfs``` | - | - [x] |
+| [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)  | - | - | ```backtrack, dfs``` | ```cut branch``` | - [x] |
 | [46. Permutations](https://leetcode.com/problems/permutations/submissions/)    | - | - | ```permutation``` | - | - [x] |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/)   | - | - | ```permutation``` | **More practice** | - [x] |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/)  | - | - | ```array``` | - | - [x] |
@@ -88,8 +90,9 @@ solutions for leetcode
 | [136. Single Number](https://leetcode.com/problems/single-number/)     | - | - | ```bit manipulation``` | - | - [x] |
 | [137. Single Number II](https://leetcode.com/problems/single-number-ii/)   | - | - | ```bit manipulation``` | - | - [ ] |
 | [139. Word Break](https://leetcode.com/problems/word-break/)  | - | - | ```dynamic programming``` | - | - [ ] |
-| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | - | - | - | - | - [x] |
-| [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | - | - | - | - | - [ ] |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | - | - | ```linked list``` | - | - [x] |
+| [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | - | - | ```linked list``` | - | - [ ] |
+| [143. Reorder List](https://leetcode.com/problems/reorder-list/) | - | - | ```linked list``` | - | - [x] |
 | [144. Binary Tree Preorder Traversal]() | - | - | - | - | - [ ] |
 | [145. Binary Tree Postorder Traversal]() | - | - | - | - | - [ ] |
 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | - | - | - | - | - [ ] |
