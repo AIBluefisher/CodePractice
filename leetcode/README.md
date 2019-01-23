@@ -15,6 +15,7 @@ solutions for leetcode
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | - | - | ```string``` | - | <input type="checkbox" checked="checked"> |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | - | - | ```string``` | - | <input type="checkbox" checked="checked"> |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)  | - | - | ```string``` | - | <input type="checkbox" checked="checked"> |
+| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | - | - | ```hashmap``` | - | <input type="checkbox" checked="checked"> |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | - | - | ```stack``` | - | <input type="checkbox" checked="checked"> |
 | [21. Merge Two Sorted Lists]()  | - | - | ```linklist``` | - | <input type="checkbox" checked="checked"> |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  | - | - | ```permutation``` | - | <input type="checkbox" checked="checked"> |
@@ -52,14 +53,17 @@ solutions for leetcode
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/)  | - | - | ```dynamic programming``` | - | <input type="checkbox"> |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  | - | - | ```array``` | - | <input type="checkbox" checked="checked"> |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)    | - | - | ```binary search``` | - | <input type="checkbox" checked="checked"> |
+| [78. Subsets](https://leetcode.com/problems/subsets/)    | - | - | ```dfs, backtrack``` | - | <input type="checkbox" checked="checked"> |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  | - | - | ```array``` | - | <input type="checkbox"> |
 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)  | - | - | ```binary search``` | - | <input type="checkbox"> |
 | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)   | - | |- | ```LinkList``` | **More Practice** | <input type="checkbox" checked="checked"> |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | - | - | ```LinkList``` | - | <input type="checkbox" checked="checked"> |
+| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)  | - | - | ```math``` | - | <input type="checkbox"> |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)  | - | - | ```dynamic programming``` | - | <input type="checkbox"> |
 | [86. Partition List](https://leetcode.com/problems/partition-list/) | - | - | - | - | <input type="checkbox"> |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | - | - | ```array``` | - | <input type="checkbox" checked="checked"> |
 | [89. Gray Code](https://leetcode.com/problems/gray-code/) | - | - | - | - | <input type="checkbox"> |
+| [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | - | - | - | - | <input type="checkbox" checked="checked"> |
 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | - | - | - | - | <input type="checkbox"> |
 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)   | - | - | ```LinkList``` | **Need more practice** | <input type="checkbox" checked="checked"> |
 | [94. Binary Tree Inorder Traversal]()  | - | - | ```Tree``` | - | <input type="checkbox"> |
@@ -84,6 +88,8 @@ solutions for leetcode
 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | - | - | - | - | <input type="checkbox"> |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | - | - | ```tree``` |  | <input type="checkbox"> |
 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | - | - | ```tree``` |  | <input type="checkbox"> |
+| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | - | - | ```dynamic programming``` |  | <input type="checkbox"  checked="checked"> |
+| [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | - | - | ```dynamic programming``` |  | <input type="checkbox"  checked="checked"> |
 | [120. Triangle]()  | - | - | ```dynamic programming``` | - | <input type="checkbox" checked="checked"> |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)  | - | - | ```dynamic programming``` | **Try with 滚动数组** | <input type="checkbox" checked="checked"> |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)   | - | - | ```dynamic programming``` | **Try with 滚动数组** | <input type="checkbox" checked="checked"> |
@@ -101,10 +107,15 @@ solutions for leetcode
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | - | - | ```linked list``` | - | <input type="checkbox" checked="checked"> |
 | [144. Binary Tree Preorder Traversal]() | - | - | - | - | <input type="checkbox"> |
 | [145. Binary Tree Postorder Traversal]() | - | - | - | - | <input type="checkbox"> |
+| [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | - | - | - | **more practice** | <input type="checkbox" checked="checked"> |
+| [148. Sort List](https://leetcode.com/problems/sort-list/) | - | - | - | **more practice** | <input type="checkbox"> |
+| [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | - | - | - | - | <input type="checkbox" checked="checked"> |
+| [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | - | - | - | - | <input type="checkbox"> |
 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | - | - | - | - | <input type="checkbox"> |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)  | - | - | ```linklist``` | - | <input type="checkbox"> |
 | [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  | - | - | ```array``` | - | <input type="checkbox"> |
 | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)  | - | - | ```string``` | - | <input type="checkbox" checked="checked"> |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/)  | - | - | ```math``` | - | <input type="checkbox"> |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/)  | - | - | ```array, math``` | - | <input type="checkbox" checked="checked"> |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/)  | - | - | ```array``` | - | <input type="checkbox"> |
 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  | - | - | ```linklist``` | - | <input type="checkbox" checked="checked"> |
@@ -112,11 +123,14 @@ solutions for leetcode
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | - | - | ```graph``` | ```try with top sort and dfs``` | <input type="checkbox" checked="checked"> |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | - | - | ```dfs, backtrack``` |  | <input type="checkbox" checked="checked"> |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | - | - | - | - | <input type="checkbox" checked="checked"> |
+| [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | - | - | - | - | <input type="checkbox"> |
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | - | - | ```math``` | - | <input type="checkbox" checked="checked"> |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)   | - | - | ```linklist``` | **Problem Sucks!** | <input type="checkbox"> |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)     | - | - | ```string, hash table``` | - | <input type="checkbox" checked="checked"> |
 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/)     | - | - | ```bit manipulation``` | - | <input type="checkbox"> |
+| [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)     | - | - | ```bit manipulation``` | - | <input type="checkbox"> |
 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)  | - | - | ```array``` | - | <input type="checkbox"> |
+| [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)  | - | - | ```bit  manipulation``` | - | <input type="checkbox"> |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)  | - | - | ```math``` | - | <input type="checkbox"> |
 | [590. N-ary Tree Postorder Traversal]()  | - | - | ```Tree``` | - | <input type="checkbox" checked="checked"> |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  | - | - | ```linklist``` | - | <input type="checkbox" checked="checked"> |
